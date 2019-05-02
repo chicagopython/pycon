@@ -15,13 +15,15 @@ This repository contains notes for all things related to having a ChiPy presence
 ### For Community Members
 
 - Our Slack workspace, chipy.slack.com, is a friendly environment where individuals of all experience levels can / provide help for Python, especially Data Science
-- Project Night challenges are online
-- Algorithm / Interview Prep materials are online
-- YouTube channel with videos on data science, web dev, object-oriented programming, Python
 - Want to contribute to open source? We accept PRs from all over the world!
   - Django-based website
   - Flask-based Slack bot
   - Static-sites built with Nikola
+- Want to speak? We love hosting first-time speakers!
+- YouTube channel with videos on data science, web dev, object-oriented programming, Python
+- Hands-on programming challenges!
+  - Project Night activities
+  - Algorithm / Interview Prep materials
 
 ### Branding
 
