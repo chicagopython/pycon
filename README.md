@@ -63,3 +63,4 @@ This repository contains notes for all things related to having a ChiPy presence
   - [ChiPy Slack Invite](https://joinchipyslack.herokuapp.com)
   - [Project Night Challenges](https://chicagopython.github.io/)
   - [Algorithm Special Interest Group Problems](https://chicagopython.github.io/algosig/)
+  - [Mansion Party EventBrite](https://www.eventbrite.com/e/combined-user-group-happy-hour-tickets-61264574993)
